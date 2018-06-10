@@ -1,0 +1,11 @@
+{
+  "proxy": [
+    {
+      "path": "/yzjz-console-server",
+      "target": "http://120.55.46.201"
+    }, {
+      "path": "/superman-web2",
+      "target": "http://121.40.31.185:8888"
+    }
+  ]
+}

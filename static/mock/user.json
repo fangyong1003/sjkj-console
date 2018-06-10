@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "users": [
+    {"id": 1, "name": "shi.pengyan", "userCode": "spy1", "phone": "12", "asset": 1000.123, "desc": "this is test"},
+    {"id": 2, "name": "spy2", "userCode": "spy2", "phone": "33", "asset": 3000.123, "desc": "this is test"},
+    {"id": 3, "name": "Administrator", "userCode": "spy3", "phone": "33", "asset": 4000.123, "desc": "this is test"},
+    {"id": 4, "name": "smith", "userCode": "spy4", "phone": "33", "asset": 5000.23, "desc": "this is test"},
+    {"id": 5, "name": "alias", "userCode": "spy5", "phone": "33", "asset": 16000.11123, "desc": "this is test"}
+  ]
+}

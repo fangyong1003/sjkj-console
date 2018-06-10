@@ -1,0 +1,6 @@
+/**
+ * Created by ZHANGXI on 2018/3/27.
+ */
+export const DECREASE_QUERY_BEGIN = 'DECREASE_QUERY_BEGIN'
+export const DECREASE_QUERY_SUC = 'DECREASE_QUERY_SUC'
+export const DECREASE_SUC = 'DECREASE_SUC'

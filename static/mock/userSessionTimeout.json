@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "errorCode": "USER_NEED_LOGIN",
+  "errorMsg": "用户登录超时"
+}
